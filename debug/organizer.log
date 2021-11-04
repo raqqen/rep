@@ -1,5 +1,2 @@
-﻿  Generate moc_predefs.h
-  main.cpp
-  mainwindow.cpp
-  moc_mainwindow.cpp
+﻿  mainwindow.cpp
   organizer.vcxproj -> C:\projects\rep\debug\organizer.exe
